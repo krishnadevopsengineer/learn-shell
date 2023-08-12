@@ -5,4 +5,5 @@ echo No of Arguments - $#
 
 echo All Arguments - $*
 
+echo Script Name - $0
 
