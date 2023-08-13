@@ -5,3 +5,4 @@ greeting(){
 }
 
 greeting
+echo Function Exit Status - $?
