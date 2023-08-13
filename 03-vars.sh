@@ -14,3 +14,6 @@ echo Today date is $DATE
 ## Arithmetic Substituion
 ADD=$(( 2+5 ))
 echo ADD of 2+5 = $ADD
+
+# Access environment Variables
+echo Username = $user
