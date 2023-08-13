@@ -16,4 +16,5 @@ ADD=$(( 2+5 ))
 echo ADD of 2+5 = $ADD
 
 # Access environment Variables
-echo Username = $USER
+echo Username - $USER
+echo Env Var abc - $abc
